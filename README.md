@@ -6,7 +6,7 @@
 
 ## Description
 
-Here you can find all the projects i have worked on
+Welcome to Fernando Lage's personal website. Here you will find information about his projects, interests, and professional background. Stay tuned for updates and feel free to reach out with any questions.
 
 ## Table of Contents
 
