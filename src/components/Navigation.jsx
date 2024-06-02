@@ -8,7 +8,6 @@ function Navigation() {
         {path: "/", label: "Home"},
         {path: "/Resume", label: "Resume"},
         {path: "/Portafolio", label: "Portafolio"},
-        {path: "/about", label: "About"},
         {path: "/contact", label: "Contact"},
     ];
 
@@ -18,7 +17,7 @@ function Navigation() {
 
     return (
         <div className="container-fluid">
-        <div class="d-flex justify-content-end">
+        <div className="d-flex justify-content-end">
         <ul className="nav nav-tabs">
           {navLinks.map(({ path, label }) => (
             <ul className="nav-item" key={label}>

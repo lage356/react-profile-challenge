@@ -25,6 +25,7 @@ function ContactForm() {
 
     return (
         <div className="container mt-5">
+            <h2>Contact Me</h2>
             <form onSubmit={handleSubmit} className="card p-3">
                 <div className="form-group">
                     <label htmlFor="name">Name:</label>
