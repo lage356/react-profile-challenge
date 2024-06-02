@@ -1,8 +1,44 @@
-# React + Vite
+# my-react-portafolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![License:Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
-Currently, two official plugins are available:
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+
+Here you can find all the projects i have worked on
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+N/A
+
+## Usage
+
+Click on the following link
+
+## Credits
+
+Fernando Lage
+
+## License
+
+    Apache 2.0
+
+## Features
+
+React
+
+## Contact
+
+https://github.com/lage356
+
+## How to Contribute
+
+If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
