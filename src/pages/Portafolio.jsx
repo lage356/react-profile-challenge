@@ -5,22 +5,22 @@ const projects = [
   {
     title: 'Weather App',
     description: 'A weather forecasting app with real-time data.',
-    imageUrl: './weather.jpg',
+    imageUrl: 'https://i.ibb.co/tLp7wQN/weather.jpg',
   },
   {
     title: 'Task Manager',
     description: 'An app to manage daily tasks and to-do lists.',
-    imageUrl: './task.jpg',
+    imageUrl: 'https://i.ibb.co/JB7ZTcn/task.jpg',
   },
   {
     title: 'E-commerce Store',
     description: 'A full-featured e-commerce store with payment integration.',
-    imageUrl: './ecommerce.jpg',
+    imageUrl: 'https://i.ibb.co/pvrxv5G/ecommerce.jpg',
   },
   {
     title: 'Fitness Tracker',
     description: 'An app to track workouts and fitness goals.',
-    imageUrl: './fitness.jpg',
+    imageUrl: 'https://i.ibb.co/Ykxbkkx/Fitness.jpg',
   },
 ];
 
