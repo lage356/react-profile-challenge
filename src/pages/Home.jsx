@@ -6,7 +6,7 @@ export default function Home() {
         <div className="card">
           <div className="card-body text-center">
             <img 
-              src="./profile.jpeg" 
+              src="https://i.ibb.co/mJQnVK5/profile.jpg" 
               alt="Profile" 
               className="rounded-circle mb-3" 
               style={{ width: '150px', height: '150px' }}
